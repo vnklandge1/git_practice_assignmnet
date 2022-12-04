@@ -1,4 +1,5 @@
-    let x="";
+ let str="madam"; 
+  let x="";
     for(let N=str.length-1;N>=0;N--){
         x+=str[N];
         
